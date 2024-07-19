@@ -120,3 +120,8 @@ xandr.com, 15769, RESELLER
 xandr.com, 15840, RESELLER
 xandr.com, 7353, RESELLER
 xapads.com, 117219, RESELLER
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+mars.media, 1010442, RESELLER, 8624339f102fb076
+yeahmobi.com, 5135195, RESELLER
+zmaticoo.com, 5135195, RESELLER
+zmaticoo.com, 5135704, RESELLER
